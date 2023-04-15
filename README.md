@@ -15,8 +15,8 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" style="padding-right:10px;" />][webdevplaylist]
 --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salvo-polizzi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salvo-polizzi)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-virid-one-67.vercel.app/api?username=salvo-polizzi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-virid-one-67.vercel.app/api/top-langs/?username=salvo-polizzi)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 salvo-polizzi/salvo-polizzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
